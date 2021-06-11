@@ -1,2 +1,2 @@
 # maracuja
-apenas um locl de código azedo
+apenas um local de código azedo
